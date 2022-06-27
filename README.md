@@ -1,5 +1,3 @@
 ## Hi, there 👋
 
-### My projects
-
-[markup-product](https://lev-laptev.github.io/markup-product/markup-product/)
+### Each repository has a link where you can view the application
